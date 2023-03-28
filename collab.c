@@ -72,6 +72,12 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void sryal3_fllan2(){
+  printf("Shreeya Ryali and Fabian Llangari\n");
+  printf("When starting off we learned that the commands add and commmit are reliant on each other to make any"
+    "changes in the repository. Other commands are also reliant on commit to make changes to the repository");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +89,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  sryal3_fllan2();
 
   return 0;
 }
